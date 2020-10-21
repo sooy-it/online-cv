@@ -19,15 +19,15 @@
 
   {% include contact.html %}
 
-  {% if sidebar.education %}
+  {% unless sidebar.education %}
     {% include education.html %}
-  {% endif %}
+  {% endunless %}
 
   {% include language.html %}
   {% include interests.html %}
 
-  {% if sidebar.about %}
+  {% unless sidebar.about %}
     {% include about.html %}
-  {% endif %}
+  {% endunless %}
 
 </div><!--//sidebar-wrapper-->
