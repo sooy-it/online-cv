@@ -57,12 +57,13 @@ education:
       university: IT University of Copenhagen
       time: Sep 2018 - Sep 2020
       details: |
-        Specialized in Business Analytics. Course work includes e.g., Big Data Management, Data Mining.
-        Thesis: Earthquake detection, a big data analysis platform using Apache Spark.
-        Recipient of Danish state scholarship (Awarded to 3 or 4 talented MSc applicants from non- EU/EEA countries).
+          Specialized in Business Analytics. 
+          - Course work includes: Introductory Programming (Java), Database Design (MySQL), Software Engineering, Algorithms and Data Structures, Intelligent Systems Programming, Functional Programming, Applied Information Security, Big Data Management, Data Mining.
+          - Thesis: Earthquake detection, a big data analysis platform using Apache Spark.
+          - Recipient of Danish state scholarship (Awarded to 3 or 4 talented MSc applicants from non- EU/EEA countries).
     - degree: B.A. in Scandinavian
       university: Hankuk University of Foreign Studies
-      time: 2011 - 2017
+      time: Mar 2011 - Feb 2017
       details: |
         Double major in Advertising/PR/Branding. GPA 3.84 /4.5
 experiences:
