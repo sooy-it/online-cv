@@ -50,66 +50,43 @@ career-profile:
     summary: |
       Recent software development graduate from ITU, looking to start career as a Junior developer. Skilled user of Java, Python, Scala with advanced knowledge of SQL and bash. Experience in designing Apache Spark application on AWS platform. Seeking to further develop data analytics experience with focus on cloud services.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Software Development
+      university: IT University of Copenhagen
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Specialized in Business Analytics. Course work includes e.g., Big Data Management, Data Mining.
+        Thesis: Earthquake detection, a big data analysis platform using Apache Spark
+        Recipient of Danish state scholarship (Awarded to 3 or 4 talented MSc applicants from non- EU/EEA countries)
+    - degree: B.A. in Scandinavian
+      university: Hankuk University of Foreign Studies
+      time: 2011 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Double major in Advertising/PR/Branding. GPA 3.84 /4.5
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Student Assistant
+      time: Mar 2017 - Aug 2017
+      company: Embassy of Denmark in Korea, Seoul
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Student Assistant in the Political and Communications department.
+          - Managed the Embassy’s website (Sitecore) and social media platforms.
+          - Designed promotional materials to support public diplomacy events.
+          - Researched for presidential election and political affairs.
+
+    - role: Intern
+      time: Mar 2016 - Aug 2016
+      company: Embassy of the Republic of Korea to Denmark, Hellerup
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Intern for Political and Cultural Affairs Section.
+          - Arranged meetings for delegation visits.
+          - Managed and guided exhibition halls in the Embassy.
+          - Created event materials to promote Korean culinary culture
+
+    - role: Intern
+      time: Oct 2015 - Feb 2016
+      company: Kotra Copenhagen, Copenhagen
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Produced monthly trend reports online.
+          - Coordinated trade delegation visits.
 projects:
     title: Projects
     intro: >
@@ -163,23 +140,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python & Scala
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: SQL
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: bash & git
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: HTML & CSS
+        level: 65%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
