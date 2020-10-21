@@ -46,17 +46,20 @@ sidebar:
         link:
 
 career-profile:
-    title: Summary
+    title: Hello World, My name is Soo
     summary: |
-      Recent software development graduate from ITU, looking to start career as a Junior developer. Skilled user of Java, Python, Scala with advanced knowledge of SQL and bash. Experience in designing Apache Spark application on AWS platform. Seeking to further develop data analytics experience with focus on cloud services.
+      Recent software development graduate from ITU, looking to start career as a Junior developer. 
+      Skilled user of Java, Python, Scala with advanced knowledge of SQL and bash. 
+      Experience in designing Apache Spark application on AWS platform. 
+      Seeking to further develop data analytics experience with focus on cloud services.
 education:
     - degree: MSc in Software Development
       university: IT University of Copenhagen
-      time: 2018 - 2020
+      time: Sep 2018 - Sep 2020
       details: |
         Specialized in Business Analytics. Course work includes e.g., Big Data Management, Data Mining.
-        Thesis: Earthquake detection, a big data analysis platform using Apache Spark
-        Recipient of Danish state scholarship (Awarded to 3 or 4 talented MSc applicants from non- EU/EEA countries)
+        Thesis: Earthquake detection, a big data analysis platform using Apache Spark.
+        Recipient of Danish state scholarship (Awarded to 3 or 4 talented MSc applicants from non- EU/EEA countries).
     - degree: B.A. in Scandinavian
       university: Hankuk University of Foreign Studies
       time: 2011 - 2017
