@@ -5,7 +5,9 @@ layout: default
 
 {% include career-profile.html %}
 
-{% include education.html %}
+{% if sidebar.education %}
+   {% include education.html %}
+{% endif %}
 
 {% include experiences.html %}
 
